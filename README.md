@@ -53,11 +53,11 @@ cd code-editor-pro
 2. Install dependencies
 npm install
 
-3. Start server
+3. Start server with:
 cd server -
 npm run dev
 
-4. Open new terminal and start frontend in project root
+4. Open new terminal and start frontend in project root with:
 npm run dev
 
 Application launches automatically in browser. By default:
