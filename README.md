@@ -54,7 +54,7 @@ cd code-editor-pro
 npm install
 
 3. Start server
-cd server
+cd server -
 npm run dev
 
 4. Open new terminal and start frontend in project root
