@@ -60,7 +60,9 @@ npm run dev
 4. Open new terminal and start frontend in project root
 npm run dev
 
-Application launches automatically in browser at http://localhost:5173
+Application launches automatically in browser. By default:
+- Frontend: http://localhost:5173 (or next available port)
+- Backend: http://localhost:3001 (or PORT from environment variables)
 
 ## User Guide
 
