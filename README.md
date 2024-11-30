@@ -50,7 +50,7 @@ A modern browser-based code editor that supports multiple programming languages 
 git clone https://github.com/RampeK/code-editor-pro.git
 cd code-editor-pro
 
-2. Install dependencies
+2. Install dependencies with:
 npm install
 
 3. Start server with:
