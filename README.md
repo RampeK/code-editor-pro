@@ -19,6 +19,7 @@ A modern browser-based code editor that supports multiple programming languages 
 - Best practices detection
 - Warning notifications for potential issues
 - Improvement suggestions
+- TODO - Replace current algorithm with Grog's AI
 
 ### Project Management
 - Multi-project support (stored in browser's local storage)
